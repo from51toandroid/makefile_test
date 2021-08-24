@@ -6,7 +6,11 @@
 #include <getopt.h>
 
 
+<<<<<<< HEAD
 uuuuuu
+=======
+
+>>>>>>> 98beba7528db09582cd8525f075465769603378a
 do a difff 
  
 int main( int argc, char **argv )            
